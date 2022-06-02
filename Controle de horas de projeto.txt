@@ -1,0 +1,5 @@
+Preço definido hora: 40 reais
+
+Desenvolvimento do código: 5h
+Desenvolvimento do desenho: 1h
+Coleta de informações, datasheets e modelos: 1h
